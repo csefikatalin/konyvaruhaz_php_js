@@ -29,9 +29,9 @@ A végpontok kezelése a **books_endpoints.php** fájlban történik.
 
 ## Végpontok
 
-get http://localhost:8000/books_endpoint.php** - az összes könyv lekérdezése az adatbázis konyv táblájából
-post http://localhost:8000/books_endpoint.php** - egy könyv eltárolása a konyv táblában, visszaadja az eltárolt könyvet az új id-vel
-delete http://localhost:8000/books_endpoint.php/2** - 2-es id-jű könyv törlése az adatbázisból
+**get http://localhost:8000/books_endpoint.php** - az összes könyv lekérdezése az adatbázis konyv táblájából
+**post http://localhost:8000/books_endpoint.php** - egy könyv eltárolása a konyv táblában, visszaadja az eltárolt könyvet az új id-vel
+**delete http://localhost:8000/books_endpoint.php/2** - 2-es id-jű könyv törlése az adatbázisból
 
 # Frontend
 
